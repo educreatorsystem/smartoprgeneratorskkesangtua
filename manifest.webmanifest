@@ -1,0 +1,25 @@
+{
+  "name": "SMART OPR GENERATOR — SEKOLAH KEBANGSAAN KESANG TUA",
+  "short_name": "OPR SK Kesang Tua",
+  "description": "Sistem Jana One Page Report SEKOLAH KEBANGSAAN KESANG TUA",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf6ff",
+  "theme_color": "#0b4389",
+  "icons": [
+    {
+      "src": "https://iili.io/nvOx6Vn.md.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://iili.io/nvOx6Vn.md.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
